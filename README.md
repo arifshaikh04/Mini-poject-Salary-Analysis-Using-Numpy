@@ -1,0 +1,1 @@
+# Mini-poject-Salary-Analysis-Using-Numpy
